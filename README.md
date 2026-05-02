@@ -167,10 +167,3 @@ Sugira melhorias para este código de análise de dados
 * Aplicar análise em dados reais de negócio
 * Aprender Machine Learning básico
 * Criar dashboards interativos
-
-👨‍💻 Autor
-
-Desenvolvido por **Lucas Thiago**
-Em constante evolução no aprendizado de dados 🚀
-
-Só me falar 👍
